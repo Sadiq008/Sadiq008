@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq Saleem</h1>
 <h3 align="center">Passionate web developer focused on building efficient, scalable, and user-friendly solutions. I aim to grow in the IT field by taking on challenging tasks and delivering quality results in dynamic, fast-paced environments. Eager to collaborate, learn, and contribute to impactful projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiq008&label=Profile%20views&style=flat" alt="sadiq008" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiq008&label=Profile%20views&color=0e75b6&style=flat" alt="sadiq008" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiq008" alt="sadiq008" /></a> </p>
 
